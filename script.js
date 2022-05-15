@@ -2,11 +2,11 @@
 const mainVideo = document.querySelector("#main-Video");
 const musicList = document.querySelector(".music-list");
 const playlist = document.getElementById("playlist");
-const AllLessons = document.querySelector(".AllLessons");
+const All = document.querySelector(".All");
 const videoTitle = document.querySelector(".title");
 
 const ulTag = document.querySelector("ul");
-AllLessons.innerHTML = `${allVideos.length} Lessons`;
+All.innerHTML = `${allVideos.length} Videos`;
 
 let musicIndex = 1;
 window.addEventListener("load", () => {

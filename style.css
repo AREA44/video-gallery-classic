@@ -71,7 +71,7 @@ section {
 .playlist::-webkit-scrollbar {
   width: 0px;
 }
-.playlistBx .row .AllLessons {
+.playlistBx .row .All {
   display: block;
   text-align: left;
   color: #dcdee1;
