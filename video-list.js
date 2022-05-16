@@ -5,8 +5,8 @@ let allVideos = [
     id: "vid_1",
   },
   {
-    name: "ROLLIN' SAFARI",
-    src: "./video/ROLLIN' SAFARI.mp4",
+    name: "A Rocky Coast",
+    src: "./video/pexels-video-1550080.mp4",
     id: "vid_2",
   },
 ];
